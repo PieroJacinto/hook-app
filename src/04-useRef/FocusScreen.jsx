@@ -17,8 +17,7 @@ export const FocusScreen = () => {
                 ref = { inputRef }
                 type="text" 
                 placeholder="Ingrese su nombre"
-                className="form-control"
-                
+                className="form-control"                
             />
 
             <button 
